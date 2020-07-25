@@ -1,0 +1,26 @@
+.titulo {
+    background-color: gold;
+}
+
+.parrafo {
+    background-color: aqua;
+}
+
+.amarrillo {
+    background-color: yellow;
+    width: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.primera-seccion {
+   background-color: white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.contenedor{
+    background-color: pink;
+    border: 5px solid blue;
+}
