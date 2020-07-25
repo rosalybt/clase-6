@@ -1,26 +1,32 @@
-.titulo {
-    background-color: gold;
-}
 
 .parrafo {
     background-color: aqua;
 }
 
-.amarrillo {
-    background-color: yellow;
-    width: 50px;
-    width: 50px;
-    display: inline-block;
-}
 
-.primera-seccion {
+.tarjetas {
    background-color: white;
+   border: 5px solid grey ;
+   border-radius: 25px;
+   text-align: center;
+   padding: 20px;
     height: 200px;
-    width: 200px;
+    width: 200px; 
     display: inline-block;
+    box-sizing: border-box;
 }
 
 .contenedor{
-    background-color: pink;
+    background-color: blue;
     border: 5px solid blue;
+    text-align: center;
+}
+
+
+img{
+    height: 100px;
+    width: auto;
+
+    
+
 }
